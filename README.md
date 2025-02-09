@@ -1,7 +1,6 @@
-LeetMetrics
 LeetMetrics is a web application designed to provide users with insightful visualizations of their LeetCode problem-solving statistics. By entering a LeetCode username, users can view a breakdown of their progress, including the distribution of problems solved across different difficulty levels.
 
-Features
+Features:-
 Interactive Pie Chart: Displays the distribution of problems solved by difficulty (Easy, Medium, Hard).
 Smooth Animations: Enhances user experience with animations during username searches and transitions.
 Dynamic Effects: Includes special effects on buttons and charts for a more engaging interface.
